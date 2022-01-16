@@ -1,0 +1,13 @@
+.heading {
+  color: #33cccc;
+  font-size: 2rem;
+}
+.para {
+  color: red;
+}
+.button {
+  border: 1px solid #ddd;
+  background-color: dodgerblue;
+  color: #fff;
+  padding: 10px 30px;
+}
